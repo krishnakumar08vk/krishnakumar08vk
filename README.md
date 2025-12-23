@@ -3,7 +3,7 @@
 Hi, I'm Krishna Kumar 👋  <br>Full Stack Web Developer | Web Applications | Continuous Learner  <br>Tech: HTML, CSS, JavaScript, React, PHP, Node.js, MySQL<br><br>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__krishx___?igsh=mw04n2fqazk2cnu4eq%3d%3d&utm_source=qr) [![LinkedIn](www.linkedin.com/in/krishna-kumar-be) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakumar08vk@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/__krishx___?igsh=mw04n2fqazk2cnu4eq%3d%3d&utm_source=qr) [![LinkedIn]](www.linkedin.com/in/krishna-kumar-be) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishnakumar08vk@gmail.com) 
 
 <!-- snake game -->
 <div align="center">
